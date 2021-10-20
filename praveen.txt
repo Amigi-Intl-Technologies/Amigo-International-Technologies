@@ -1,0 +1,6 @@
+this a linx class
+eco
+touch
+ls
+chmod
+umask
